@@ -130,10 +130,11 @@ section {
   margin-bottom: 20px;
 }
 
-*///////SOCIAL//////*/
+/*///////SOCIAL//////*/
 
 #social {
   position: fixed;
   top: 200px;
-  right
+  right: 20px;
+  
 }
