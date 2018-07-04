@@ -78,6 +78,9 @@ img, video, audio {
 }
 
 /*///////LAYOUT////////*/
+*{
+  box-sizing: border-box;
+}
 
 .wrapper {
   width: 960px;
@@ -121,5 +124,6 @@ img, video, audio {
 /*///////SECTIONS//////*/
 
 section {
+  padding: 20px;
   margin-bottom: 20px;
 }
