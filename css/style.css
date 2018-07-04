@@ -99,3 +99,6 @@ figcaption {
   margin-left: 2%;
 }
 
+.first { /*columns that are first from left don't need left margin*/
+  margin-left: 0%;
+}
